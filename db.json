@@ -1,18 +1,16 @@
 [
   {
-    "judul"     : "Donal",
+    "name"     : "Donal",
     "thumnile"  : "https://www.axios.com",
     "deskripsi" : "Belajar Axios"
   },
-  
   {
-    "judul"     : "Donil",
+    "name"     : "Donil",
     "thumnile"  : "https://www.axios.com",
     "deskripsi" : "Belajar Axios"
   },
-  
   {
-    "judul"     : "Donul",
+    "name"     : "Donul",
     "thumnile"  : "https://www.axios.com",
     "deskripsi" : "Belajar Axios"
   }
