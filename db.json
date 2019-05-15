@@ -1,17 +1,17 @@
 {
   "portofolio" : 
   [{
-    "name"     : "Donal",
-    "thumbnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
-    "deskripsi" : "Belajar Axios"
+    "name"     : "Corel Draw",
+    "thumbnile"  : "https://www.wilcom.com/Portals/0/EasyDNNNews/401/600600p8936EDNmain401Logo_Corel_Balloon_Stacked_grey[1].png",
+    "deskripsi" : "Merupakan editor grafik vektor yang dikembangkan oleh Corel, sebuah perusahaan perangkat lunak yang bermarkas di Ottawa, Kanada. "
   },{
-    "name"     : "Donil",
-    "thumbnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
-    "deskripsi" : "Belajar Axios"
+    "name"     : "Adobe Illustrator",
+    "thumbnile"  : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png",
+    "deskripsi" : "Merupakan program editor grafis vektor terkemuka, dikembangkan dan dipasarkan oleh Adobe Systems."
   },{
-    "name"     : "Donul",
-    "thumbnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
-    "deskripsi" : "Belajar Axios"
+    "name"     : "Adobe XD",
+    "thumbnile"  : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Adobe_Experience_Design_logo.svg/1051px-Adobe_Experience_Design_logo.svg.png",
+    "deskripsi" : "Merupakan alat berbasis vektor yang dikembangkan dan diterbitkan oleh Adobe Inc untuk merancang dan membuat prototipe pengalaman pengguna untuk aplikasi web dan seluler"
   }]
   
 }
