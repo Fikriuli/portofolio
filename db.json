@@ -2,15 +2,15 @@
   "portofolio" : 
   [{
     "name"     : "Donal",
-    "thumnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
+    "thumbnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
     "deskripsi" : "Belajar Axios"
   },{
     "name"     : "Donil",
-    "thumnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
+    "thumbnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
     "deskripsi" : "Belajar Axios"
   },{
     "name"     : "Donul",
-    "thumnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
+    "thumbnile"  : "https://cdn.dribbble.com/users/627511/screenshots/4909987/web-developer.png",
     "deskripsi" : "Belajar Axios"
   }]
   
